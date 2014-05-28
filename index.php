@@ -9,7 +9,7 @@
     <meta name="author" content="">
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 
-    <title>inspired eLearning - PhishProof - <?php echo $pagetitle; ?></title>
+    <title>ixlenim - single upload test</title>
 
 	<link href="css/jquery.fileupload.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
